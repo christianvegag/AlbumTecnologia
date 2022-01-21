@@ -1,0 +1,36 @@
+
+body{
+  background-color: bisque;
+  text-align: center;
+  margin: 10%;
+  margin-top: 5%;
+}
+
+.titulo{
+    color: #da481c;
+    font-size: 50px;
+    text-align: center;
+}
+
+.subtitulo{
+    color: rgb(49, 59, 194);
+    text-align: center;
+    margin: 5%;
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+}
+
+.album{
+    padding-top: 5%;
+    margin: auto;
+}
+
+
+.texto {
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+}
